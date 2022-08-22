@@ -8,7 +8,7 @@ Flash-Chat is a messaging app that has authentication built in. You are able to 
 
 ## App Walk-through
 
-<img src="video.gif" width=300>
+<img src="video.gif">
  
 
 ## Related Skills
