@@ -1,5 +1,5 @@
 
-# Flash-Chat
+# ⚡️Flash-Chat
 
 ## App Description
 Flash-Chat is a messaging app that has authentication built in. You are able to register and login users. Once you are login, you can send messages with the other.
@@ -8,7 +8,7 @@ Flash-Chat is a messaging app that has authentication built in. You are able to 
 
 ## App Walk-through
 
-<img src="video.gif">
+<img src="video.gif" width = "500">
  
 
 ## Related Skills
